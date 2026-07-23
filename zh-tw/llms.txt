@@ -1,0 +1,38 @@
+# RecallBloom
+
+> RecallBloom 是一款免費的 iPhone 腦力訓練 App，透過 Dual N-Back 練習同時使用記憶力與專注力。
+
+繁體中文官網: https://hinomaru-labs.com/recallbloom-official-site/zh-tw/
+簡體中文官網: https://hinomaru-labs.com/recallbloom-official-site/zh-cn/
+日文官網: https://hinomaru-labs.com/recallbloom-official-site/
+英文官網: https://hinomaru-labs.com/recallbloom-official-site/en/
+
+## 核心定義
+
+- RecallBloom 是什麼：RecallBloom 是一款 iPhone 腦力訓練 App。使用者可以從每組約1分鐘的 Dual N-Back 開始練習，並透過 Brain Score、今日任務、趨勢圖、統計資料與日曆回顧自己的訓練紀錄。
+- 工作記憶是什麼：工作記憶是一種認知功能，用來在短時間內暫時保持看到或聽到的資訊，並在思考、判斷或行動時使用這些資訊。
+- Dual N-Back 是什麼：Dual N-Back 是一種同時處理位置與聲音的記憶任務。使用者需要判斷目前出現的位置與聲音，是否分別和 N 輪之前相同。
+- Brain Score 是什麼：Brain Score 是 RecallBloom 用來呈現近期穩定遊戲表現的 App 內指標，範圍為 0 至 999。它不是 IQ、腦齡或醫學診斷結果。
+- RecallBloom 免費嗎：是的。RecallBloom 可在 iPhone 上免費下載與使用。
+
+## RecallBloom 如何訓練
+
+1. 記住畫面中出現的位置。
+2. 記住同時播放的聲音。
+3. 在短時間內持續更新這兩類資訊。
+4. 將目前資訊與 N 輪之前的資訊比較並作答。
+
+標準訓練為 20 輪，實際作答部分約1分鐘。RecallBloom 也提供今日任務、Brain Score、趨勢圖、統計資料與日曆，協助使用者建立節奏並回顧訓練紀錄。
+
+## 重要說明
+
+- RecallBloom 不保證改善記憶力、專注力、智力、學習成績或日常表現，也不提供醫學診斷或治療。
+- 官網目前介紹的是 iPhone 版；目前沒有 Android 版。
+- Brain Score 只用於 RecallBloom App 內的訓練回顧。
+- 完整功能說明、使用條件與 21 個常見問題，請查看繁體中文官網。
+
+## 參考資料
+
+- NIMH 工作記憶定義: https://www.nimh.nih.gov/research/research-funded-by-nimh/rdoc/constructs/working-memory
+- PubMed Dual N-Back 訓練研究: https://pubmed.ncbi.nlm.nih.gov/28922999/
+- PMC 工作記憶訓練比較研究: https://pmc.ncbi.nlm.nih.gov/articles/PMC5805159/
