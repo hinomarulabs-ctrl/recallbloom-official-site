@@ -1,34 +1,13 @@
-# RecallBloom
+# RecallBloom — 1分からの記憶力トレーニング
 
-> RecallBloomは、位置と音を覚えて答えるゲームで記憶力と集中力を使う、iPhone向け認知トレーニングアプリです。
+位置と音を覚えて比べるDual N-Backアプリ。間違い回数を前回や初回と同じレベルで比較し、チャレンジの道のりで次の目標を確認できます。アプリ内の3問練習で始められます。
 
-Official site: https://hinomaru-labs.com/recallbloom-official-site/
-English site: https://hinomaru-labs.com/recallbloom-official-site/en/
-English AI-readable summary: https://hinomaru-labs.com/recallbloom-official-site/en/llms.txt
-简体中文网站: https://hinomaru-labs.com/recallbloom-official-site/zh-cn/
-简体中文 AI 可读摘要: https://hinomaru-labs.com/recallbloom-official-site/zh-cn/llms.txt
-繁體中文網站: https://hinomaru-labs.com/recallbloom-official-site/zh-tw/
-繁體中文 AI 可讀摘要: https://hinomaru-labs.com/recallbloom-official-site/zh-tw/llms.txt
+無料・広告あり。広告非表示は任意の買い切り購入。定期購入なし。練習記録は端末内に保存。アカウント登録不要。
 
-## Definitions
-
-- RecallBloomとは: 位置と音を覚えて答えるDual N-Backに1セット約1分から取り組み、Brain Score、毎日のミッション、グラフ・統計・カレンダーで積み重ねを振り返れるiPhone向け脳トレアプリです。
-- RecallBloomが向いている人: 記憶力や集中力を使う短い脳トレを探している成人、Dual N-Backを初めて試したい人、毎日の取り組みを記録しながら続けたい人です。
-- ワーキングメモリとは: 見たり聞いたりした情報を短時間だけ保ち、その情報を使って考えたり判断したりするための認知機能です。
-- RecallBloomのトレーニング方法: 情報を覚え、短時間保ちながら更新し、前の情報と比べて答える流れを、位置と音の2種類で繰り返します。
-- Dual N-Backとは: 現在の位置と音が、それぞれN個前の刺激と同じかを判断する課題です。
-- Brain Scoreとは: RecallBloomの標準Dual N-Backにおける最近の安定したゲーム内パフォーマンスを0〜999で表す独自指標です。IQ、脳年齢、医学的な診断結果ではありません。
-- RecallBloomは無料ですか？: はい。RecallBloomは無料でダウンロードして利用できます。iPhoneのApp Storeから無料で始められます。
-
-## Why RecallBloom
-
-- 位置と音の2種類を同時に扱うDual N-Backに集中しています。
-- 標準セットは20ラウンドで、プレイ部分は約1分です。
-- 毎日のミッションが、その日に取り組む小さな目標を示します。
-- Brain Score、グラフ、統計、カレンダーで継続記録を振り返れます。
-
-## Important notes
-
-- RecallBloomは医学的・科学的な効果を保証する製品ではありません。
-- この公式サイトで現在案内しているのはiPhone版です。
-- 詳しい機能、利用条件、20件のFAQは公式サイト本文を参照してください。
+- Website: https://hinomaru-labs.com/recallbloom-official-site/
+- App Store: https://apps.apple.com/app/id6791464081
+- Google Play: https://play.google.com/store/apps/details?id=com.hinomarulabs.recallbloom.app
+- Privacy: https://hinomaru-labs.com/recallbloom/privacy.html
+- Terms: https://hinomaru-labs.com/recallbloom/terms.html
+- Support: hinomaru.labs@gmail.com
+- Publisher: Hinomaru Labs

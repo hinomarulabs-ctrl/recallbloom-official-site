@@ -1,35 +1,13 @@
-# RecallBloom
+# RecallBloom — Memory Training, One Minute at a Time
 
-> RecallBloom is a free iPhone brain training app built around Dual N-Back, a task that asks you to track visual positions and sounds and compare them with earlier rounds.
+A Dual N-Back app for remembering positions and spoken letters. Compare mistakes at the same level with previous or first sets, and see your next goal on the challenge path. Three practice questions introduce the rules.
 
-Official English site: https://hinomaru-labs.com/recallbloom-official-site/en/
-Japanese site: https://hinomaru-labs.com/recallbloom-official-site/
+Free with ads. Optional one-time purchase to remove ads; no subscription. Training records stay on your device. No account is required.
 
-## Clear definitions
-
-- RecallBloom: A free iPhone Dual N-Back app with standard 20-round sets, Brain Score, daily missions, progress graphs, statistics, and a training calendar.
-- Working memory: The limited mental workspace used to actively hold and update information for a short time while thinking, deciding, or completing a task.
-- Dual N-Back: A working-memory task in which a person tracks two streams—visual position and sound—and decides whether each current stimulus matches the one presented N rounds earlier.
-- Brain Score: RecallBloom's 0–999 in-app indicator of recent, stable performance in standard Dual N-Back sets. It is not IQ, brain age, a medical test, or a diagnosis.
-
-## How RecallBloom works
-
-1. Open the home screen and review the current challenge and daily mission.
-2. Complete a standard 20-round Dual N-Back set; active play takes about one minute.
-3. Compare each visual position and sound with the stimulus from N rounds earlier.
-4. Review the result through Brain Score, graphs, statistics, and the calendar.
-
-## Product facts
-
-- RecallBloom is free to download and use on iPhone.
-- The current official site describes the iPhone version; no Android release date has been announced.
-- Standard training uses sound, so headphones may be helpful in shared spaces.
-- Training history and Brain Score are primarily stored on the device; direct cloud sync between devices is not currently supported.
-- RecallBloom does not guarantee improvements in working memory, focus, IQ, school or work performance, or everyday functioning.
-- The English page contains 21 natural-language questions and answers about the product, Dual N-Back, working memory, pricing, supported devices, privacy, and limitations.
-
-## Research references used for careful terminology
-
-- NIMH working-memory construct: https://www.nimh.nih.gov/research/research-funded-by-nimh/rdoc/constructs/working-memory
-- Near-transfer randomized trial indexed by PubMed: https://pubmed.ncbi.nlm.nih.gov/28922999/
-- N-back versus complex-span training comparison in PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC5805159/
+- Website: https://hinomaru-labs.com/recallbloom-official-site/en/
+- App Store: https://apps.apple.com/app/id6791464081
+- Google Play: https://play.google.com/store/apps/details?id=com.hinomarulabs.recallbloom.app
+- Privacy: https://hinomaru-labs.com/recallbloom/privacy.html
+- Terms: https://hinomaru-labs.com/recallbloom/terms.html
+- Support: hinomaru.labs@gmail.com
+- Publisher: Hinomaru Labs
